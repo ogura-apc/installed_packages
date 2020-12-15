@@ -40,7 +40,7 @@ ca-certificates.noarch             2018.2.22-70.0.amzn2              installed
 cairo.x86_64                       1.15.12-4.amzn2                   @amzn2-core
 chkconfig.x86_64                   1.7.4-1.amzn2.0.2                 installed  
 chrony.x86_64                      3.2-1.amzn2.0.5                   installed  
-cloud-init.noarch                  18.2-72.amzn2.0.7                 installed  
+cloud-init.noarch                  19.3-3.amzn2                      @amzn2-core
 cloud-utils-growpart.noarch        0.29-2.amzn2                      installed  
 containerd.x86_64                  1.4.1-1.amzn2                     @amzn2extra-docker
 copy-jdk-configs.noarch            3.3-10.amzn2                      @amzn2-core
