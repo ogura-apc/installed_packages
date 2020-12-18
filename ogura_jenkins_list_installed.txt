@@ -483,7 +483,7 @@ systemd-libs.x86_64                219-57.amzn2.0.9                  installed
 systemd-sysv.x86_64                219-57.amzn2.0.9                  installed  
 systemtap-runtime.x86_64           3.2-4.amzn2.0.2                   installed  
 sysvinit-tools.x86_64              2.88-14.dsf.amzn2.0.2             installed  
-tar.x86_64                         2:1.26-34.amzn2                   installed  
+tar.x86_64                         2:1.26-35.amzn2                   @amzn2-core
 tcp_wrappers.x86_64                7.6-77.amzn2.0.2                  installed  
 tcp_wrappers-libs.x86_64           7.6-77.amzn2.0.2                  installed  
 tcpdump.x86_64                     14:4.9.2-3.amzn2                  installed  
